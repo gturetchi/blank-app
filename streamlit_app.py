@@ -58,10 +58,9 @@ client = init_connection()
 
 # display_documents()
 
-print("Data successfully imported into MongoDB.")
+st.image("img/qr.png")
 
 st.title("🎈 Impactul vaccinării împotriva COVID-19 in Republica Moldova")
-
 
 st.subheader("De unde date ?")
 st.write(""" 
